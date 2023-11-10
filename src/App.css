@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  max-height: 100vh;
 }
 
 .App-logo {
@@ -26,6 +27,38 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.App-li-titulo {
+ text-align: left;
+ text-decoration: underline;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  color: #61dafb;
+}
+
+.App-li-detalle {
+ text-align: left;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.App-titulo {
+  text-align: center;
+  color: #61dafb;
+  font-size: 35px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+.App-aspiraciones {
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  color: rgba(255, 255, 0, 0.775);
 }
 
 @keyframes App-logo-spin {
