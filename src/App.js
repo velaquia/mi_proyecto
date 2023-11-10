@@ -11,7 +11,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://github.com/velaquia/hola_mundo_react"
+          href="https://github.com/velaquia/mi_proyecto"
           target="_blank"
           rel="noopener noreferrer"
         >
